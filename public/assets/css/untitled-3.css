@@ -1,0 +1,4 @@
+#mainNav .navbar-nav > li > a:hover, #mainNav .navbar-nav > li > a:focus:hover {
+  color: var(--bs-purple);
+}
+

@@ -1,0 +1,24 @@
+.btn:hover, .btn:focus, .btn:active, .btn.active {
+  color: #fff;
+  border-color: #505050;
+  background-color: #505050;
+  box-shadow: 1px 2px 2px black;
+}
+
+#mainNav .navbar-nav > li > a.active {
+  color: var(--bs-purple) !important;
+  background-color: transparent;
+}
+
+section {
+  background-color: mediumpurple;
+}
+
+.icon-screen-smartphone {
+}
+
+.centered {
+  float: none;
+  margin-left: 0;
+  margin-right: 0;
+}

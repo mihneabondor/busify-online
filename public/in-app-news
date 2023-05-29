@@ -1,0 +1,14 @@
+[
+    {
+        "text": "Prelungirea programului de transport pe liniile 24B, 25, 30, 31, 35, 3, 5, 6, 9, 21 și 101, în perioada 18-21 mai, cu ocazia celei de a XI-a ediție a Zilelor Clujului. Ultimele plecări pe aceste linii vor avea loc în jurul orei 23:30.//Notă: Orarele sunt la zi în aplicație, respectând acesta modificări.",
+        "from": "2023-05-18 00:00:00",
+        "to": "2023-05-22 00:00:00",
+        "motiv": "Zilele Clujului"
+    },
+    {
+        "text": "Prelungim orarul de circulație pe linia 102, de Zilele Clujului, în perioada 18-21 mai.//Linia de tramvai 101 va fi înlocuită cu linia de tramvai 102, ce are traseul din Bucium până în zona B-dul Muncii. Ultimele plecări pe linia 102, din Bucium, vor fi la 23:00 și 23:20, iar din stația Gheorghe Barițiu înspre B-dul Muncii vor fi la 23:15 și 23:35.",
+        "from": "2023-05-18 00:00:00",
+        "to": "2023-05-22 00:00:00",
+        "motiv": "linia 102"
+    }
+]
